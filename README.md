@@ -77,20 +77,6 @@ Visualização da participação entre planos mensais, trimestrais e anuais.
 
 ---
 
-## Como Reproduzir
-
-1. Clone este repositório:
-
-git clone <URL_DO_REPOSITORIO>
-
-2. Abra o arquivo `.xlsx` no Microsoft Excel.
-
-3. Navegue até a aba **Dashboard** para visualizar os indicadores e gráficos.
-
-4. Atualize a base de dados para refletir novos registros.
-
----
-
 ## Objetivo de Negócio
 
 O principal objetivo é transformar dados operacionais em informações estratégicas, permitindo:
